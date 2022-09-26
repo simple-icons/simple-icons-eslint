@@ -12,7 +12,7 @@ Install the package:
 npm install -D simple-icons-eslint
 ```
 
-Add `simple-icons-eslint` to the `extends` array of the *.eslintrc.json* file:
+Add `simple-icons-eslint` to the `extends` array of the _.eslintrc.json_ file:
 
 ```json
 {
