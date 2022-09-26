@@ -1,6 +1,6 @@
 {
-  "name": "simple-icons-eslint",
-  "version": "0.1.1",
+  "name": "eslint-config-simple-icons",
+  "version": "0.1.0",
   "description": "Simple Icons ESLint base configuration for all repositories",
   "homepage": "https://simpleicons.org",
   "main": "index.js",
@@ -12,10 +12,14 @@
   },
   "keywords": [
     "eslint",
+    "eslintconfig",
     "simple-icons"
   ],
   "author": "Simple Icons Collaborators",
   "license": "CC0-1.0",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
   "devDependencies": {
     "eslint": "8.24.0",
     "eslint-config-prettier": "8.5.0",
