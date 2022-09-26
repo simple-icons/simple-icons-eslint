@@ -1,6 +1,6 @@
 # eslint-config-simple-icons
 
-[![Build status](https://img.shields.io/github/workflow/status/simple-icons/simple-icons-eslint/Verify/develop?logo=github&label=tests)](https://github.com/simple-icons/simple-icons-eslint/actions?query=workflow%3AVerify+branch%develop) [![NPM version](https://img.shields.io/npm/v/simple-icons-eslint.svg?logo=npm)](https://www.npmjs.com/package/eslint-config-simple-icons)
+[![Build status](https://img.shields.io/github/workflow/status/simple-icons/simple-icons-eslint/Verify/develop?logo=github&label=tests)](https://github.com/simple-icons/simple-icons-eslint/actions?query=workflow%3AVerify+branch%develop) [![NPM version](https://img.shields.io/npm/v/eslint-config-simple-icons.svg?logo=npm)](https://www.npmjs.com/package/eslint-config-simple-icons)
 
 Simple Icons ESLint base configuration for all repositories.
 
