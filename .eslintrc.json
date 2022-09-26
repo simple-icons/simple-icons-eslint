@@ -2,5 +2,5 @@
   "env": {
     "node": true
   },
-  "extends": ["./config.js"]
+  "extends": ["./index.js"]
 }

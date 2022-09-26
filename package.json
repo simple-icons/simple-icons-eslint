@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-simple-icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Icons ESLint base configuration for all repositories",
   "homepage": "https://simpleicons.org",
   "main": "index.js",

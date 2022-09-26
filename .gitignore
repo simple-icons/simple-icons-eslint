@@ -1,4 +1,6 @@
-### NodeJS ###
+*.tgz
+
+## NodeJS ###
 # Logs
 logs
 *.log
