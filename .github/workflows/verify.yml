@@ -1,4 +1,4 @@
-name: Verify Source
+name: Verify
 on: [pull_request, push]
 
 jobs:
